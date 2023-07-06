@@ -5,3 +5,4 @@ for word in lst:
     lst_rev.append(reversed_word)
 
 print(lst_rev)
+
